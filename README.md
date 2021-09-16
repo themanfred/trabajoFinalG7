@@ -1,4 +1,4 @@
-# trabajoFinalG7
+# trabajoFinalEquipo7
 SemanaTEC> Github &amp; Coding
 Con tu equipo de trabajo propongan una solución para resolver un problema medioambiental utilizando IoT, donde las herramientas de trabajo que utilizarías en caso de implementarlo, serían Proteus y en Python (Trabajando con Git y Github, genera los documentos del proyecto trabajando en equipo compartiendo los documentos, un documento Powerpoint, subirlo tanto en PDF como en PPT).
 
