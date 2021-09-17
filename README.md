@@ -21,3 +21,9 @@ ENTREGABLES
 3. Un video de 5 minutos de los integrantes del equipo mostrando el funcionamiento de Github y mostrando su resultado (deben participar todos). Entrega un PDF con una liga al video. El video deberá estar en Youtube.
 
 4. Archivos  PDF Y PPT con la investigación.
+
+Integrantes del Equipo:
+Angel David Cavazos Monsivais  A00827729
+Ricardo Rodríguez Rodríguez  A01283165
+César Simental Galindo  A00833835
+Thomas Freund  A00831997
